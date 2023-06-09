@@ -1,0 +1,353 @@
+[12:35:37] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[12:35:38] [ServerMain/INFO]: Loaded 7 recipes
+[12:35:39] [Server thread/INFO]: Starting minecraft server version 1.19.4
+[12:35:39] [Server thread/INFO]: Loading properties
+[12:35:39] [Server thread/INFO]: This server is running CraftBukkit version 3762-Spigot-7d7b241-2270366 (MC: 1.19.4) (Implementing API version 1.19.4-R0.1-SNAPSHOT)
+[12:35:39] [Server thread/INFO]: Debug logging is disabled
+[12:35:39] [Server thread/INFO]: Server Ping Player Sample Count: 12
+[12:35:39] [Server thread/INFO]: Using 4 threads for Netty based IO
+[12:35:39] [Server thread/INFO]: Default game type: SURVIVAL
+[12:35:39] [Server thread/INFO]: Generating keypair
+[12:35:39] [Server thread/INFO]: Starting Minecraft server on *:25565
+[12:35:39] [Server thread/INFO]: Using default channel type
+[12:35:40] [Server thread/INFO]: [ValhallaTrinkets] Loading ValhallaTrinkets v1.0
+[12:35:40] [Server thread/INFO]: [ValhallaMMO] Loading ValhallaMMO vALPHA_1.8.2
+[12:35:40] [Server thread/INFO]: [ValhallaRaces] Loading ValhallaRaces v1.2
+[12:35:40] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[12:35:40] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[12:35:40] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[12:35:40] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[12:35:40] [Server thread/INFO]: Preparing level "world"
+[12:35:40] [Server thread/INFO]: -------- World Settings For [world] --------
+[12:35:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:35:40] [Server thread/INFO]: View Distance: 10
+[12:35:40] [Server thread/INFO]: Simulation Distance: 10
+[12:35:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:35:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:35:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:35:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:35:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:35:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:35:40] [Server thread/INFO]: Mob Spawn Range: 6
+[12:35:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:35:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:35:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:35:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:35:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:35:40] [Server thread/INFO]: Max TNT Explosions: 100
+[12:35:40] [Server thread/INFO]: -------- World Settings For [world_nether] --------
+[12:35:40] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:35:40] [Server thread/INFO]: View Distance: 10
+[12:35:40] [Server thread/INFO]: Simulation Distance: 10
+[12:35:40] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:35:40] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:35:40] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:35:40] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:35:40] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:35:40] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:35:40] [Server thread/INFO]: Mob Spawn Range: 6
+[12:35:40] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:35:40] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:35:40] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:35:40] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:35:40] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:35:40] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:35:40] [Server thread/INFO]: Max TNT Explosions: 100
+[12:35:41] [Server thread/INFO]: -------- World Settings For [world_the_end] --------
+[12:35:41] [Server thread/INFO]: Allow Zombie Pigmen to spawn from portal blocks: true
+[12:35:41] [Server thread/INFO]: View Distance: 10
+[12:35:41] [Server thread/INFO]: Simulation Distance: 10
+[12:35:41] [Server thread/INFO]: Item Despawn Rate: 6000
+[12:35:41] [Server thread/INFO]: Item Merge Radius: 2.5
+[12:35:41] [Server thread/INFO]: Arrow Despawn Rate: 1200 Trident Respawn Rate:1200
+[12:35:41] [Server thread/INFO]: Zombie Aggressive Towards Villager: true
+[12:35:41] [Server thread/INFO]: Nerfing mobs spawned from spawners: false
+[12:35:41] [Server thread/INFO]: Experience Merge Radius: 3.0
+[12:35:41] [Server thread/INFO]: Mob Spawn Range: 6
+[12:35:41] [Server thread/INFO]: Cactus Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Cane Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Melon Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Mushroom Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Pumpkin Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Sapling Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Beetroot Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Carrot Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Potato Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Wheat Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: NetherWart Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Vine Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Cocoa Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Bamboo Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: SweetBerry Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Kelp Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: TwistingVines Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: WeepingVines Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: CaveVines Growth Modifier: 100%
+[12:35:41] [Server thread/INFO]: Entity Tracking Range: Pl 48 / An 48 / Mo 48 / Mi 32 / Di 128 / Other 64
+[12:35:41] [Server thread/INFO]: Entity Activation Range: An 32 / Mo 32 / Ra 48 / Mi 16 / Tiv true / Isa false
+[12:35:41] [Server thread/INFO]: Custom Map Seeds:  Village: 10387312 Desert: 14357617 Igloo: 14357618 Jungle: 14357619 Swamp: 14357620 Monument: 10387313 Ocean: 14357621 Shipwreck: 165745295 End City: 10387313 Slime: 987234911 Nether: 30084232 Mansion: 10387319 Fossil: 14357921 Portal: 34222645
+[12:35:41] [Server thread/INFO]: Hopper Transfer: 8 Hopper Check: 1 Hopper Amount: 1 Hopper Can Load Chunks: false
+[12:35:41] [Server thread/INFO]: Tile Max Tick Time: 50ms Entity max Tick Time: 50ms
+[12:35:41] [Server thread/INFO]: Max TNT Explosions: 100
+[12:35:41] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[12:35:43] [Worker-Main-1/INFO]: Preparing spawn area: 0%
+[12:35:43] [Worker-Main-3/INFO]: Preparing spawn area: 0%
+[12:35:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:35:43] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[12:35:43] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[12:35:43] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:35:44] [Worker-Main-7/INFO]: Preparing spawn area: 1%
+[12:35:44] [Worker-Main-11/INFO]: Preparing spawn area: 44%
+[12:35:45] [Server thread/INFO]: Time elapsed: 4055 ms
+[12:35:45] [Server thread/INFO]: Preparing start region for dimension minecraft:the_nether
+[12:35:46] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:35:46] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[12:35:46] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[12:35:46] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[12:35:47] [Worker-Main-1/INFO]: Preparing spawn area: 1%
+[12:35:47] [Worker-Main-15/INFO]: Preparing spawn area: 26%
+[12:35:48] [Server thread/INFO]: Time elapsed: 2870 ms
+[12:35:48] [Server thread/INFO]: Preparing start region for dimension minecraft:the_end
+[12:35:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:35:50] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:35:50] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[12:35:50] [Worker-Main-6/INFO]: Preparing spawn area: 0%
+[12:35:50] [Worker-Main-15/INFO]: Preparing spawn area: 0%
+[12:35:50] [Worker-Main-8/INFO]: Preparing spawn area: 56%
+[12:35:50] [Server thread/INFO]: Time elapsed: 2713 ms
+[12:35:50] [Server thread/INFO]: [ValhallaTrinkets] Enabling ValhallaTrinkets v1.0
+[12:35:50] [Server thread/WARN]: filler item type GRAY_STAINED_GLASS_PANELOL is not valid
+[12:35:50] [Server thread/INFO]: [ValhallaTrinkets] ValhallaMMO hooked! Adding a bunch of cool stuff. Use /val setuptrinkets to load in its custom recipes (probably only use it once tho)
+[12:35:50] [Server thread/INFO]: [ValhallaMMO] Enabling ValhallaMMO vALPHA_1.8.2
+[12:35:51] [Server thread/WARN]: [ValhallaMMO] This version of ValhallaMMO is not compatible, versions at or under 1.16.4 are not supported. Certain features are disabled. (don't worry, no such features exist yet)
+[12:35:51] [Server thread/INFO]: [ValhallaMMO] Enabling ValhallaMMO, this might take a bit...
+[12:35:54] [Server thread/WARN]: Database connection failed, using PersistentDataContainer for profile persistence
+[12:35:54] [Server thread/INFO]: [ValhallaTrinkets] Registered new ValhallaTrinkets modifiers
+[12:35:55] [Server thread/INFO]: [ValhallaMMO] Successfully loaded custom shaped recipes
+[12:35:55] [Server thread/INFO]: [ValhallaMMO] Successfully loaded custom smithing table recipes
+[12:35:55] [Server thread/INFO]: [ValhallaMMO] Successfully loaded custom cooking recipes
+[12:35:55] [Server thread/INFO]: >> INFO : physical damage scaling set to (%damage% * (10 / (10 + %armor%)) - (%damage%^2 * 0.00005 * %toughness%))
+[12:35:55] [Server thread/INFO]: [ValhallaRaces] Enabling ValhallaRaces v1.2
+[12:35:55] [Server thread/INFO]: Server permissions file permissions.yml is empty, ignoring it
+[12:35:55] [Server thread/INFO]: Done (15.601s)! For help, type "help"
+[12:35:56] [Craft Scheduler Thread - 1/INFO]: [ValhallaMMO] Successfully loaded custom brewing recipes
+[12:35:56] [Craft Scheduler Thread - 1/INFO]: [ValhallaMMO] Successfully loaded custom crafting recipes
+[12:35:56] [Craft Scheduler Thread - 1/INFO]: [ValhallaMMO] Successfully loaded custom item improvement recipes
+[12:35:56] [Craft Scheduler Thread - 1/INFO]: [ValhallaMMO] Successfully loaded custom item class improvement recipes
+[12:35:56] [Craft Scheduler Thread - 1/INFO]: [ValhallaMMO] Successfully loaded custom cauldron recipes
+[12:35:56] [Server thread/INFO]: ValhallaTrinkets found! Trinkets now contribute to stats as well
+[12:39:25] [User Authenticator #1/INFO]: UUID of player Zelldry is 17dae088-540e-3ba0-bcb2-a300d6db603f
+[12:39:25] [Server thread/INFO]: Zelldry joined the game
+[12:39:25] [Server thread/INFO]: Zelldry[/127.0.0.1:60410] logged in with entity id 634 at ([world]23.32645305803173, 71.0, 144.69999998807907)
+[12:48:34] [User Authenticator #2/INFO]: UUID of player LordVitor375 is af1e4f73-70f8-3eec-a76c-489d950dfce4
+[12:48:34] [Server thread/INFO]: LordVitor375 joined the game
+[12:48:34] [Server thread/INFO]: LordVitor375[/127.0.0.1:60999] logged in with entity id 2472 at ([world]73.2326335069821, 70.0, 184.40989196549134)
+[12:48:50] [Server thread/INFO]: LordVitor375 issued server command: /tp Zelldry
+[12:48:50] [Server thread/INFO]: [LordVitor375: Teleported LordVitor375 to Zelldry]
+[12:49:05] [Async Chat Thread - #0/INFO]: [Not Secure] <LordVitor375> discord vadia
+[12:51:42] [Server thread/INFO]: LordVitor375 issued server command: /tp Zelldry
+[12:51:42] [Server thread/INFO]: [LordVitor375: Teleported LordVitor375 to Zelldry]
+[12:52:00] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:00] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:00] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:01] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:01] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:01] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:01] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:01] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:01] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:02] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> zz
+[12:52:02] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:02] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> zz
+[12:52:03] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:03] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:04] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:04] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:04] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:04] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:05] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:05] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:05] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:05] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:06] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:06] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:06] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:06] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:06] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:07] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:07] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:07] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:07] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:08] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:08] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:08] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:08] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:09] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:09] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:09] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:09] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:09] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:10] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:10] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:10] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:10] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:11] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:11] [Async Chat Thread - #3/INFO]: [Not Secure] <LordVitor375> z
+[12:52:11] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:11] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:52:11] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:12] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:12] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:12] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:12] [Async Chat Thread - #4/INFO]: [Not Secure] <LordVitor375> z
+[12:52:13] [Async Chat Thread - #2/INFO]: [Not Secure] <LordVitor375> z
+[12:55:54] [Server thread/INFO]: LordVitor375 issued server command: /skills
+[13:04:38] [Server thread/INFO]: Zelldry lost connection: Kicked by an operator
+[13:04:38] [Server thread/INFO]: Zelldry left the game.
+[13:04:38] [Server thread/INFO]: Kicked Zelldry: Kicked by an operator
+[13:04:45] [User Authenticator #3/INFO]: UUID of player Zelldry is 17dae088-540e-3ba0-bcb2-a300d6db603f
+[13:04:46] [Server thread/INFO]: Zelldry joined the game
+[13:04:46] [Server thread/INFO]: Zelldry[/127.0.0.1:62034] logged in with entity id 7239 at ([world]10.75402840597735, 70.0, 174.49772328888122)
+[13:07:50] [Server thread/INFO]: Set Zelldry's game mode to Creative Mode
+[13:08:34] [Server thread/INFO]: Zelldry issued server command: /gamemode survival
+[13:08:34] [Server thread/INFO]: [Zelldry: Set own game mode to Survival Mode]
+[13:22:47] [User Authenticator #4/INFO]: UUID of player GabrielR26 is 71d69981-2e72-34e1-a4a7-f048ed34d6f1
+[13:22:47] [Server thread/INFO]: GabrielR26 joined the game
+[13:22:47] [Server thread/INFO]: GabrielR26[/127.0.0.1:63174] logged in with entity id 9940 at ([world]70.52441333186006, 63.0, 165.05135264732235)
+[13:28:30] [Server thread/INFO]: Zelldry issued server command: /tp GabrielR26
+[13:28:30] [Server thread/INFO]: [Zelldry: Teleported Zelldry to GabrielR26]
+[13:29:58] [Server thread/INFO]: GabrielR26 issued server command: /tp LordVitor375
+[13:29:58] [Server thread/INFO]: [GabrielR26: Teleported GabrielR26 to LordVitor375]
+[13:30:35] [Server thread/INFO]: Zelldry issued server command: /tp GabrielR26
+[13:30:35] [Server thread/INFO]: [Zelldry: Teleported Zelldry to GabrielR26]
+[13:37:31] [User Authenticator #5/INFO]: UUID of player ngogoboy is 16a7d90e-3a3d-3159-9ce1-200f83723d5e
+[13:37:31] [Server thread/INFO]: ngogoboy joined the game
+[13:37:31] [Server thread/INFO]: ngogoboy[/127.0.0.1:64436] logged in with entity id 12729 at ([world]92.21571934169268, 63.0, 138.4822315830733)
+[13:38:38] [Server thread/INFO]: Zelldry issued server command: /tp GabrielR26
+[13:38:38] [Server thread/INFO]: [Zelldry: Teleported Zelldry to GabrielR26]
+[13:43:29] [Server thread/INFO]: Zelldry issued server command: /tp ngogoboy
+[13:43:29] [Server thread/INFO]: [Zelldry: Teleported Zelldry to ngogoboy]
+[13:47:07] [Async Chat Thread - #5/INFO]: [Not Secure] <ngogoboy> COMERCIANTE TA AQ
+[13:47:10] [Async Chat Thread - #6/INFO]: [Not Secure] <Zelldry> nao bate vadia
+[13:47:25] [Server thread/INFO]: ngogoboy issued server command: /kick Zelldry
+[13:47:25] [Server thread/INFO]: Zelldry lost connection: Kicked by an operator
+[13:47:25] [Server thread/INFO]: Zelldry left the game.
+[13:47:25] [Server thread/INFO]: [ngogoboy: Kicked Zelldry: Kicked by an operator]
+[13:47:43] [User Authenticator #6/INFO]: UUID of player Zelldry is 17dae088-540e-3ba0-bcb2-a300d6db603f
+[13:47:43] [Server thread/INFO]: Zelldry joined the game
+[13:47:43] [Server thread/INFO]: Zelldry[/127.0.0.1:49154] logged in with entity id 14611 at ([world_nether]-4.4417695319248605, 73.0, 14.635551609415009)
+[13:47:52] [Async Chat Thread - #5/INFO]: [Not Secure] <ngogoboy> aprender a respeitar o op
+[13:51:21] [Server thread/INFO]: LordVitor375 issued server command: /tp Zelldry
+[13:51:21] [Server thread/INFO]: [LordVitor375: Teleported LordVitor375 to Zelldry]
+[13:51:21] [Server thread/INFO]: LordVitor375 has made the advancement [Those Were the Days]
+[13:51:33] [Server thread/INFO]: LordVitor375 issued server command: /tp ngogoboy
+[13:51:33] [Server thread/INFO]: [LordVitor375: Teleported LordVitor375 to ngogoboy]
+[13:51:46] [Server thread/INFO]: LordVitor375 issued server command: /
+[13:52:04] [Server thread/INFO]: Zelldry was slain by Zombified Piglin
+[13:53:57] [Server thread/INFO]: Zelldry issued server command: /tps LordVitor375
+[13:54:02] [Server thread/INFO]: Zelldry issued server command: /tp LordVitor375
+[13:54:02] [Server thread/INFO]: [Zelldry: Teleported Zelldry to LordVitor375]
+[13:55:53] [Server thread/INFO]: GabrielR26 issued server command: /tp LordVitor375
+[13:55:53] [Server thread/INFO]: [GabrielR26: Teleported GabrielR26 to LordVitor375]
+[13:58:41] [Async Chat Thread - #7/INFO]: [Not Secure] <LordVitor375> vai trabalhar vagabundo
+[13:58:43] [Server thread/INFO]: LordVitor375 lost connection: Disconnected
+[13:58:43] [Server thread/INFO]: LordVitor375 left the game
+[14:03:54] [Server thread/INFO]: Zelldry issued server command: /tp ngogoboy
+[14:03:54] [Server thread/INFO]: [Zelldry: Teleported Zelldry to ngogoboy]
+[14:04:15] [Async Chat Thread - #9/INFO]: [Not Secure] <GabrielR26> taya
+[14:04:24] [Async Chat Thread - #10/INFO]: [Not Secure] <ngogoboy> ?
+[14:04:25] [Async Chat Thread - #10/INFO]: [Not Secure] <GabrielR26> tem como ver os buffs das raças agora?
+[14:04:32] [Async Chat Thread - #9/INFO]: [Not Secure] <GabrielR26> ou só na criação?
+[14:04:34] [Async Chat Thread - #9/INFO]: [Not Secure] <ngogoboy> sei n
+[14:04:37] [Async Chat Thread - #10/INFO]: [Not Secure] <Zelldry> 4 60 -63
+[14:04:59] [Server thread/INFO]: Zelldry issued server command: /tp 4 60 -63
+[14:04:59] [Server thread/INFO]: [Zelldry: Teleported Zelldry to 4.500000, 60.000000, -62.500000]
+[14:07:03] [Async Chat Thread - #12/INFO]: [Not Secure] <ngogoboy> cara to coom pressa pra sair
+[14:07:06] [Async Chat Thread - #11/INFO]: [Not Secure] <ngogoboy> vou dar time set
+[14:07:19] [Server thread/INFO]: ngogoboy issued server command: /time set noon
+[14:07:19] [Server thread/INFO]: [ngogoboy: Set the time to 6000]
+[14:10:01] [Async Chat Thread - #13/INFO]: [Not Secure] <ngogoboy> cara vou sair
+[14:10:04] [Async Chat Thread - #13/INFO]: [Not Secure] <GabrielR26> flw
+[14:10:05] [Async Chat Thread - #14/INFO]: [Not Secure] <ngogoboy> deixar o server aberto
+[14:10:13] [Async Chat Thread - #13/INFO]: [Not Secure] <ngogoboy> seguinte ta feito aq as fazer
+[14:10:17] [Async Chat Thread - #14/INFO]: [Not Secure] <ngogoboy> 2 farm
+[14:10:31] [Async Chat Thread - #13/INFO]: [Not Secure] <ngogoboy> sempre q pudar passa aq e procria as galinha e as vaca
+[14:10:40] [Async Chat Thread - #14/INFO]: [Not Secure] <ngogoboy> pra ir melhorando elaas
+[14:11:31] [Server thread/INFO]: Zelldry issued server command: /tp 4 60 -63
+[14:11:31] [Server thread/INFO]: [Zelldry: Teleported Zelldry to 4.500000, 60.000000, -62.500000]
+[14:11:35] [Server thread/INFO]: Zelldry issued server command: /tp LordVitor375
+[14:11:37] [Server thread/INFO]: Zelldry lost connection: Disconnected
+[14:11:37] [Server thread/INFO]: Zelldry left the game
+[14:11:46] [User Authenticator #7/INFO]: UUID of player Zelldry is 17dae088-540e-3ba0-bcb2-a300d6db603f
+[14:11:46] [Server thread/INFO]: Zelldry joined the game
+[14:11:46] [Server thread/INFO]: Zelldry[/127.0.0.1:51850] logged in with entity id 21138 at ([world_nether]0.8875252822845053, 59.0, -61.67227988162361)
+[14:11:51] [Server thread/INFO]: ngogoboy lost connection: Disconnected
+[14:11:51] [Server thread/INFO]: ngogoboy left the game
+[14:12:09] [Server thread/INFO]: Zelldry issued server command: /tp GabrielR26
+[14:12:09] [Server thread/INFO]: [Zelldry: Teleported Zelldry to GabrielR26]
+[14:12:53] [Server thread/INFO]: Zelldry issued server command: /tp 43 64 171
+[14:12:53] [Server thread/INFO]: [Zelldry: Teleported Zelldry to 43.500000, 64.000000, 171.500000]
+[14:15:26] [Server thread/INFO]: Zelldry lost connection: Disconnected
+[14:15:26] [Server thread/INFO]: Zelldry left the game
+[14:17:35] [Server thread/INFO]: GabrielR26 issued server command: /tp 43 64 171
+[14:17:35] [Server thread/INFO]: [GabrielR26: Teleported GabrielR26 to 43.500000, 64.000000, 171.500000]
+[14:20:30] [Server thread/INFO]: GabrielR26 issued server command: /skills
+[14:23:22] [Server thread/INFO]: GabrielR26 issued server command: /skills
+[14:25:28] [Server thread/INFO]: GabrielR26 issued server command: /skills
+[14:31:34] [Server thread/INFO]: GabrielR26 issued server command: /skills
+[14:37:16] [Server thread/INFO]: GabrielR26 has made the advancement [Local Brewery]
+[14:47:10] [Server thread/INFO]: GabrielR26 lost connection: Disconnected
+[14:47:10] [Server thread/INFO]: GabrielR26 left the game
+[15:12:54] [Server thread/INFO]: Stopping the server
+[15:12:54] [Server thread/INFO]: Stopping server
+[15:12:54] [Server thread/INFO]: [ValhallaRaces] Disabling ValhallaRaces v1.2
+[15:12:54] [Server thread/INFO]: [ValhallaMMO] Disabling ValhallaMMO vALPHA_1.8.2
+[15:12:54] [Server thread/INFO]: No item adjustments detected, not saving indexed items!
+[15:12:54] [Server thread/INFO]: No recipe adjustments detected, not saving recipes!
+[15:12:54] [Server thread/INFO]: [ValhallaTrinkets] Disabling ValhallaTrinkets v1.0
+[15:12:54] [Server thread/INFO]: Saving players
+[15:12:54] [Server thread/INFO]: Saving worlds
+[15:12:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:12:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[15:12:56] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[15:12:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:12:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:12:56] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:12:56] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
